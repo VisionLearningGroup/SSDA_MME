@@ -1,5 +1,7 @@
 # [Semi-supervised Domain Adaptation via Minimax Entropy (ICCV 2019)](https://arxiv.org/pdf/1904.06487.pdf)
 
+![](docs/fig1.png)
+
 ## Install
 
 `pip install -r requirements.txt`
@@ -20,11 +22,11 @@ The images will be stored in the following way.
 
 The dataset split files are stored as follows,
 
-'./data/txt/multi/labeled_source_images_real.txt',
+`./data/txt/multi/labeled_source_images_real.txt`,
 
-'./data/txt/multi/unlabeled_target_images_sketch_3.txt',
+`./data/txt/multi/unlabeled_target_images_sketch_3.txt`,
 
-'./data/txt/multi/validation_target_images_sketch_3.txt'.
+`./data/txt/multi/validation_target_images_sketch_3.txt`.
 
 At the moment (8/18/2019), we do not publish all data of DomainNet because we hold a [competition](http://ai.bu.edu/visda-2019/) and some domains are used there.
 
