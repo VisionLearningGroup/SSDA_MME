@@ -46,6 +46,7 @@ where, gpu_id = 0,1,2,3...., method=[MME,ENT,S+T].
 
 
 ### Reference
+This repository is contributed by [Kuniaki Saito](http://cs-people.bu.edu/keisaito/) and [Donghyun Kim](https://cs-people.bu.edu/donhk/)
 If you consider using this code or its derivatives, please consider citing:
 
 ```
