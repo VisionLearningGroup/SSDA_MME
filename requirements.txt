@@ -1,4 +1,4 @@
-torch==0.4.0
+torch==1.13.1
 numpy==1.14.3
 torchvision==0.2.1
 tqdm==4.26.0
